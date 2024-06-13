@@ -10,3 +10,6 @@ Free and open source AI Aimbot that works with any game
 - 100% safe as it isn't injected into the game in any way, meaning that the anticheat won't detect it.
 - More features.
 
+## Requirements:
+
+- Newest version of Python
