@@ -1,5 +1,5 @@
 # AIMi
-
+![image](https://github.com/Xreincfel/AIMi/assets/137944691/8d3ecbe4-ed66-414a-bbc6-3fbdc65f50b7)
 Version 1.0.1 is now in a form of exe, making it easier to run
 
 Free and open source AI Aimbot that works with any game.
@@ -21,3 +21,4 @@ Stability depends on the game, for example CS2 and CS 1.6, in CS2 the aimbot is 
 ## Requirements:
 
 - Newest version of Python
+
